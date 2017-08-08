@@ -1,0 +1,2 @@
+# Java-Verizon-Desktop-App
+This Application has two primary separate java classes customer and employee; and then there are subclasses within each class to input methods and functionality. The ‘employee’ and ‘customer’ file contains methods such as set/get methods and all the fields. .This Application has a database class that contains input/output file stream, while and for-loops, alert methods, and more.
